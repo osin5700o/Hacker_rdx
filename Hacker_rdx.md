@@ -25,6 +25,8 @@ read "**Networking basics for hackers by occupytheweb**"
 Watch this vid -
 *https://www.youtube.com/playlist?list=PLAb9nv6qtkAz4oLoGDGJAnZ421sOcA0Im*
 
+Cisco Packet Tracer - *https://www.youtube.com/playlist?list=PLxbwE86jKRgMQ4HTuaJ7yQgA2BoNwY9ct*
+
 Learn concepts and see is there any **attacks** can be performed ,
 like session layer of OSI model has session hijacking
 
@@ -48,8 +50,6 @@ go to
 <- Made by me
 
 youtube video - *https://www.youtube.com/playlist?list=PLhfrWIlLOoKPT0y4R_mM4y-2QdfLpAWXl*
-
-Cisco Packet Tracer - *https://www.youtube.com/playlist?list=PLxbwE86jKRgMQ4HTuaJ7yQgA2BoNwY9ct*
 
 Learn **not all** of them ,learn essentials and situation one,
 but not at once , in 1-2 years , and do practice every single of them.
