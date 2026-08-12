@@ -46,7 +46,7 @@ Definition: Gathering and analyzing publicly available information.
 There are many types of OSINT techniques; Learn all of Them in deep
 
 go to
-*https://github.com/jokerrdx5700j/Osint_rdx/blob/main/Osin*
+*[https://github.com/jokerrdx5700j/Osint_rdx/blob/main/Osin](https://github.com/osin5700o/Osint_rdx/blob/main/Osin)*
 <- Made by me
 
 youtube video - *https://www.youtube.com/playlist?list=PLhfrWIlLOoKPT0y4R_mM4y-2QdfLpAWXl*
