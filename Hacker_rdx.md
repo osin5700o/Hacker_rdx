@@ -49,6 +49,8 @@ go to
 
 youtube video - *https://www.youtube.com/playlist?list=PLhfrWIlLOoKPT0y4R_mM4y-2QdfLpAWXl*
 
+Cisco Packet Tracer - *https://www.youtube.com/playlist?list=PLxbwE86jKRgMQ4HTuaJ7yQgA2BoNwY9ct*
+
 Learn **not all** of them ,learn essentials and situation one,
 but not at once , in 1-2 years , and do practice every single of them.
 
