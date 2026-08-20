@@ -1,4 +1,4 @@
-[root@localhost ~]# initialize_training_*of Ethical Hacker*
+*Ethical Hacker*
 
 ██████████████████████████████████████████████████████████████
 
@@ -115,52 +115,18 @@ Download it before the deleting of this playlist
 
 ██████████████████████████████████████████████████████████████
 
-[05] AI
+[05] Programming
 ──────────────────────────────────────────────────────────────
 
-Learn *"AI basics"* , how it *"made"* and watch how to
-*"manupulate"* it and use it for *"Hacking"*
+*www.w3schools.com*
 
-You can watch *"z-security"* - yt channel
+here You can learn programming lan
+██████████████████████████████████████████████████████████████
 
-[1] *https://youtu.be/bwzK1FuSp1Q?si=ikz36jO3YLZAN0zu*
+[06] Social media , device and many more Hacking
+──────────────────────────────────────────────────────────────
 
-[2]*https://youtu.be/zwV5p1L0COI?si=f1xS2QnLRadJ5KJK*
-
-[3]*https://youtu.be/hlKVvCwDZf4?si=8YHwYLylvpJ1nkSC*
-
-[4]*https://youtu.be/XvGeXQ7js_o?si=3rJUPJqoYzj-wV1y*
+*coming soon*
 
 ██████████████████████████████████████████████████████████████
 
-[06] CERTIFICATES
-──────────────────────────────────────────────────────────────
-
-ComptiaA+
-
-CCNA
-
-CEH
-
-Sec101
-
-C|OSINT|P
-
-TryHackMe Cert
-
-
-██████████████████████████████████████████████████████████████
-
-[FINAL NOTE]
-──────────────────────────────────────────────────────────────
-
-Note: *We will be a great hacker in the history and herstory*
-
-[root@localhost ~]# mission_status
-[+] ACTIVE
-
-[root@localhost ~]# whoami
-future_hacker
-
-[root@localhost ~]# exit
-Connection closed.
